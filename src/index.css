@@ -17,7 +17,9 @@ main.photos {
   display:flex;
   flex-flow:row wrap;
   justify-content: space-around;
-  margin:100px;
+  margin-left:100px;
+  margin-right:100px;
+  margin-top:50px;
 }
 
 main.photos img{
