@@ -4,8 +4,8 @@
   
 ### Preview
 
-![](images/preview1.png) 
-![](images/preview2.png)
+![](images/preview2.png) 
+![](images/preview1.png)
 
 # Getting Started with Create React App
 
