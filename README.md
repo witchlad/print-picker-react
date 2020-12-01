@@ -7,6 +7,10 @@
 ![](images/preview2.png) 
 ![](images/preview1.png)
 
+## Live
+
+https://witchlad-ppicker.netlify.app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
